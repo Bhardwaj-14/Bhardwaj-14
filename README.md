@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<table>
-<tr>
-<td valign="top">
-
-<pre>
+```
 #################*=------------=+++++++++++++++++++++++++++++++++=--:.......                :  :++=-
 #################*=------------=+++++++++++++++++++++++++++++++++=--....                 .. .. :++=-
 #################*=------------=+++++++++++++*@%%#%##%+++++++++++=-:.                  .......:=*+=-
@@ -45,17 +41,9 @@
 ******************-:.+######@#**##*##*#***#****###+*#***#*++*#****###*@%**####**+*+=      .:---++=:.
 #*****************-:.%######@%*#%%#**#*#**##**+********+*##**+**######%#%####**+*#+=  .:....:--++=:.
 #*****************-:.%######@#%%%%#*#%***##**#+*#+*****+*+*#****++***#*####+***#*++-         .:++=:.
-</pre>
+```
 
-</td>
-
-<td valign="top">
-
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23750&api_domain=hackatime.hackclub.com&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=15&theme=material-palenight" />
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23750&api_domain=hackatime.hackclub.com&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=15&theme=material-palenight"/>
 
 ### Innovator | AI Enthusiast | Founder
 
