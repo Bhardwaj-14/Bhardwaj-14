@@ -1,5 +1,16 @@
-## Hi there 👋
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23750&api_domain=hackatime.hackclub.com&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=15&theme=material-palenight"/>
 
+### Innovator | AI Enthusiast | Founder
+
+I'm **Bhardwaj Prasad Sutara**, a high school student with a vision—building AI-driven technology that transforms how people create, build, and innovate.
+
+I’m deeply passionate about **Artificial Intelligence, Robotics, and Sustainable Innovation**. I founded **InsightX**, a research publishing organization, and served as **Director of Product Development at STEM for Change**, where I worked on sustainable energy solutions for underserved communities.
+
+Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assistant** that goes far beyond chat. ORIGIN AI is designed to help engineers and creators ideate, code, automate, and build faster using **privacy-first intelligence, real-time automation, and deep workflow integration**. My goal is to make AI something you *build with*, not just *use*.
+
+---
+
+<h1 align="center">Hi 👋, I'm Bhardwaj</h1>
 ```
 #################*=------------=+++++++++++++++++++++++++++++++++=--:.......                :  :++=-
 #################*=------------=+++++++++++++++++++++++++++++++++=--....                 .. .. :++=-
@@ -42,20 +53,6 @@
 #*****************-:.%######@%*#%%#**#*#**##**+********+*##**+**######%#%####**+*#+=  .:....:--++=:.
 #*****************-:.%######@#%%%%#*#%***##**#+*#+*****+*+*#****++***#*####+***#*++-         .:++=:.
 ```
-
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23750&api_domain=hackatime.hackclub.com&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=15&theme=material-palenight"/>
-
-### Innovator | AI Enthusiast | Founder
-
-I'm **Bhardwaj Prasad Sutara**, a high school student with a vision—building AI-driven technology that transforms how people create, build, and innovate.
-
-I’m deeply passionate about **Artificial Intelligence, Robotics, and Sustainable Innovation**. I founded **InsightX**, a research publishing organization, and served as **Director of Product Development at STEM for Change**, where I worked on sustainable energy solutions for underserved communities.
-
-Currently, I’m building **ORIGIN AI** — an **offline + online hybrid AI assistant** that goes far beyond chat. ORIGIN AI is designed to help engineers and creators ideate, code, automate, and build faster using **privacy-first intelligence, real-time automation, and deep workflow integration**. My goal is to make AI something you *build with*, not just *use*.
-
----
-
-<h1 align="center">Hi 👋, I'm Bhardwaj</h1>
 <h3 align="center">Founder of ORIGIN AI | Learning AI/ML</h3>
 
 
